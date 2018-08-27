@@ -1,0 +1,20 @@
+{
+  "name": "node_plugin",
+  "version": "1.0.0",
+  "description": "some node plugins , such as open, path, webapck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powercandy/node_plugin.git"
+  },
+  "keywords": [],
+  "author": "powercandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powercandy/node_plugin/issues"
+  },
+  "homepage": "https://github.com/powercandy/node_plugin#readme"
+}
